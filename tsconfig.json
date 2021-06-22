@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"module": "commonjs",
+		"allowSyntheticDefaultImports": true,
+		"target": "es2017",
+		"outDir": "./dist",
+		"baseUrl": "./",
+		"incremental": true,
+		"typeRoots": ["node_modules/@types", "src/@types"],
+		"skipLibCheck": true
+	},
+	"exclude": ["node_modules", "dist"],
+	"include": ["src", "scripts", "src/locales/**/*", "create-ticket", "src/commands/say.ts"]
+}
