@@ -1,6 +1,6 @@
 # ✨ Simple Discord ticket bot.
 
-<img src="https://flat.badgen.net/badge/DISCORDJS/V12./blue?icon=terminal">  
+<img src="https://flat.badgen.net/badge/DISCORDJS/V12/green?icon=terminal">  
 
 ## Official Discord
 https://discord.gg/fB5RfAE4QU
